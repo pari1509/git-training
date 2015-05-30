@@ -13,7 +13,8 @@ public class Multiplication {
 		product = number3 * number4 * number5;
 		System.out.println ("The product is ");
 		System.out.println(product);
+/*Multiplication program Test*/
 	}
 				
-	}
+}
 
